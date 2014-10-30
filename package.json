@@ -11,6 +11,7 @@
     "hangover"
   ],
   "author": "Paul Rad <paul@paulrad.com>",
+  "repository": "paulrad/hangover-sysclass",
   "license": "MIT",
   "dependencies": {
     "hapi": "^7.1.0",
