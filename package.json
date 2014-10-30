@@ -1,0 +1,40 @@
+{
+  "name": "hangover-system",
+  "version": "0.4.0",
+  "description": "hangover - systemclass",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "hangover"
+  ],
+  "author": "Paul Rad <paul@paulrad.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^7.1.0",
+    "mongoose": "^3.8.18",
+    "swig": "^1.4.2",
+    "underscore": "^1.7.0",
+    "file": "^0.2.2",
+    "boom": "^2.6.0",
+    "joi": "^4.7.0",
+    "cron": "^1.0.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "gulp-concat": "^2.4.1",
+    "gulp-jshint": "^1.8.5",
+    "gulp-sass": "^1.2.0",
+    "gulp-watch": "^1.1.0",
+    "gulp-util": "^3.0.1",
+    "gulp-imagemin": "^1.2.1",
+    "gulp-sourcemaps": "^1.2.4",
+    "gulp-debug": "^1.0.1",
+    "gulp-bower": "0.0.6",
+    "mocha": "^2.0.1"
+  }
+}
