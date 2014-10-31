@@ -1,6 +1,6 @@
 {
   "name": "hangover-system",
-  "version": "0.4.11",
+  "version": "0.4.12",
   "description": "hangover - systemclass",
   "main": "index.js",
   "private": false,
@@ -21,7 +21,8 @@
     "file": "^0.2.2",
     "boom": "^2.6.0",
     "joi": "^4.7.0",
-    "cron": "^1.0.5"
+    "cron": "^1.0.5",
+    "colors": "^1.0.3"
   },
   "devDependencies": {
     "gulp": "^3.8.9",
